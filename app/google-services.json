@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458322881686",
+    "project_id": "census-mgnt-app",
+    "storage_bucket": "census-mgnt-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458322881686:android:4fbd1cd57bb6c8cc49e6b7",
+        "android_client_info": {
+          "package_name": "com.example.census_mgnt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458322881686-b96hl8isu67k862m3t319ubmasuq0s2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8oEzC6At-oIPkALQaSvIJ5A_M9XNJmnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458322881686-b96hl8isu67k862m3t319ubmasuq0s2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
