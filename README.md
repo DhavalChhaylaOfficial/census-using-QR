@@ -38,19 +38,53 @@ and provide a more thorough and precise portrait of the people. This project dem
 of QR-codes as a census management tool and identified potential directions for future research in 
 this area.
 
-## Snapshots
-![image](Snapshots/AA_Splash.jpg) 
-![image](Snapshots/AA_Login.jpg)
-![image](Snapshots/AA_OTP.jpg)
-![image](Snapshots/AA_Uhome.jpg)
-![image](Snapshots/AA_ScanQR.jpg)
-![image](Snapshots/AA_doneQR.jpg)
-![image](Snapshots/AA_UserData.jpg)
-![image](Snapshots/AA_Head.jpg)
-![image](Snapshots/AA_Home.jpg)
-![image](Snapshots/AA_Fertility.jpg)
-![image](Snapshots/AA_FinalSub.jpg)
+#### App Snapshots
 
+<table>
+  <tr>
+    <td>Welcome Screen</td>
+     <td>Login Screen</td>
+     <td>OTP Verification</td>
+  </tr>
+  <tr>
+    <td><img src="Snapshots/AA_Splash.jpg" width=250 height=480></td>
+    <td><img src="Snapshots/AA_Login.jpg" width=250 height=480></td>
+    <td><img src="Snapshots/AA_OTP.jpg" width=250 height=480></td>
+  </tr>
+
+   <tr>
+    <td>Home Page </td>
+     <td>QR Scanner</td>
+     <td>QR Scanned</td>
+  </tr>
+  <tr>
+    <td><img src="Snapshots/AA_Uhome.jpg" width=270 height=480></td>
+    <td><img src="Snapshots/AA_ScanQR.jpg" width=270 height=480></td>
+    <td><img src="Snapshots/AA_doneQR.jpg" width=270 height=480></td>
+  </tr>
+
+  <tr>
+    <td>User Data </td>
+     <td>Head Details</td>
+     <td>Home Details </td>
+  </tr>
+  <tr>
+    <td><img src="Snapshots/AA_UserData.jpg" width=270 height=480></td>
+    <td><img src="Snapshots/AA_Head.jpg" width=270 height=480></td>
+    <td><img src="Snapshots/AA_Home.jpg" width=270 height=480></td>
+  </tr>
+
+  <tr>
+    <td>Migration Details</td>
+     <td>Fertility Details</td>
+     <td>Final Conformation</td>
+  </tr>
+  <tr>
+    <td><img src="Snapshots/AA_Migration.jpg" width=270 height=480></td>
+    <td><img src="Snapshots/AA_Fertility.jpg" width=270 height=480></td>
+    <td><img src="Snapshots/AA_FinalSub.jpg" width=270 height=480></td>
+  </tr>
+ </table>
 
 
 
