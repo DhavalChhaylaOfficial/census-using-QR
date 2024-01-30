@@ -38,4 +38,20 @@ and provide a more thorough and precise portrait of the people. This project dem
 of QR-codes as a census management tool and identified potential directions for future research in 
 this area.
 
+## Snapshots
+![image](Snapshots/AA_Splash.jpg) 
+![image](Snapshots/AA_Login.jpg)
+![image](Snapshots/AA_OTP.jpg)
+![image](Snapshots/AA_Uhome.jpg)
+![image](Snapshots/AA_ScanQR.jpg)
+![image](Snapshots/AA_doneQR.jpg)
+![image](Snapshots/AA_UserData.jpg)
+![image](Snapshots/AA_Head.jpg)
+![image](Snapshots/AA_Home.jpg)
+![image](Snapshots/AA_Fertility.jpg)
+![image](Snapshots/AA_FinalSub.jpg)
+
+
+
+
  
